@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedevyash&show_icons=true&locale=en" alt="thedevyash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedevyash&" alt="thedevyash" /></p>
+
+[![An image of @thedevyash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thedevyash)](https://holopin.io/@thedevyash)
