@@ -23,4 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thedevyash&" alt="thedevyash" /></p>
 
+<iframe src="https://api.badgr.io/public/assertions/PXEwA7ADQEyry9Dk6MifiA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191" title="Badge: Postman API Fundamentals Student Expert" style="width: 330px; height: 191px; border: 0px;"></iframe>
+
 [![An image of @thedevyash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thedevyash)](https://holopin.io/@thedevyash)
