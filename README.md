@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
+<div align="center">
+  <img height="300" src="https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"  />
+</div>
+
 - 📫 How to reach me **imailsharma.yash@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
