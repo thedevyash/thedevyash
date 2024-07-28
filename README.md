@@ -35,3 +35,7 @@
 
 
 [![An image of @thedevyash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thedevyash)](https://holopin.io/@thedevyash)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sid-80/Sid-80/output/snake.svg" alt="Snake animation" />
