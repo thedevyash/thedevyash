@@ -1,9 +1,7 @@
  <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
-<div align="center">
-  <img height="420" src="https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966"  />
-</div>
+
 
 - 📫 How to reach me **imailsharma.yash@gmail.com**
 
@@ -27,14 +25,13 @@
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 20px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/GSSoC24/Contributor/blob/main/assets/Adventurer%20Badge.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" /></a>
+<img src="https://github.com/GSSoC24/Contributor/blob/main/assets/Legend%20Badge.png" width="100px" height="100px" />
+  <img src="https://github.com/GSSoC24/Contributor/blob/main/assets/Champion%20Badge.png" width="100px" height="100px" />
+  <img src="https://github.com/GSSoC24/Contributor/blob/main/assets/Code%20Luminary.png" width="100px" height="100px" />
+  <img src="https://github.com/GSSoC24/Contributor/blob/main/assets/Innovator%20Badge.png" width="100px" height="100px" />
+  <img src="https://github.com/GSSoC24/Contributor/blob/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://github.com/GSSoC24/Contributor/blob/main/assets/Trailblazer%20Badge.png" width="100px" height="100px" />
+</a>
 </div>
 
 
